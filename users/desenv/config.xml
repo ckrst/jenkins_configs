@@ -3,7 +3,7 @@
   <fullName>Desenvolvedor Versul</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>jFKxajcJBznpttGXzQB36aLrkfUikI/ws1PDPkTc8L5238jZxMeY/e7BTI5uSbX8</apiToken>
+      <apiToken>p31mUMrAYRkIR3Oy13ty67HonJSKqGiKXn89IISKnL9TWEnQsFLjJ2C53Ke06ugP</apiToken>
     </jenkins.security.ApiTokenProperty>
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>false</insensitiveSearch>
@@ -29,7 +29,7 @@
       <collapsed/>
     </hudson.model.PaneStatusProperties>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$SjjEjxEU0gr8eK49D6iqLOzR3mGUnexG1.pOyPMUkZMEdOgsU6jHO</passwordHash>
+      <passwordHash>#jbcrypt:$2a$10$sruVBTtkUt.kzv2u2F3sceUTaDih2lYAiK1x66KRuDFXOcrbS8vRq</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.18">
       <emailAddress>desenvolvimento@versul.com.br</emailAddress>
@@ -38,7 +38,7 @@
       <roles>
         <string>authenticated</string>
       </roles>
-      <timestamp>1473859019529</timestamp>
+      <timestamp>1473861199358</timestamp>
     </jenkins.security.LastGrantedAuthoritiesProperty>
   </properties>
 </user>
